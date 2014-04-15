@@ -7,6 +7,7 @@ Layout.js
 
 Laying out UI should be intuitive. We have been drawing squares on paper ever since we were children. Consider this layout:
 
+![image](https://github.com/zhangela/layoutjs/blob/master/sample_layout.png?raw=true)
 
 
 ## Requirements
